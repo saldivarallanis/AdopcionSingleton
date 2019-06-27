@@ -1,0 +1,11 @@
+C:\Users\alber\Documents\Adopcion\Adopcion\obj\Debug\netcoreapp2.1\Adopcion.csprojAssemblyReference.cache
+C:\Users\alber\Documents\Adopcion\Adopcion\obj\Debug\netcoreapp2.1\Adopcion.csproj.CoreCompileInputs.cache
+C:\Users\alber\Documents\Adopcion\Adopcion\obj\Debug\netcoreapp2.1\Adopcion.AssemblyInfoInputs.cache
+C:\Users\alber\Documents\Adopcion\Adopcion\obj\Debug\netcoreapp2.1\Adopcion.AssemblyInfo.cs
+C:\Users\alber\Documents\Adopcion\Adopcion\bin\Debug\netcoreapp2.1\Adopcion.deps.json
+C:\Users\alber\Documents\Adopcion\Adopcion\bin\Debug\netcoreapp2.1\Adopcion.runtimeconfig.json
+C:\Users\alber\Documents\Adopcion\Adopcion\bin\Debug\netcoreapp2.1\Adopcion.runtimeconfig.dev.json
+C:\Users\alber\Documents\Adopcion\Adopcion\bin\Debug\netcoreapp2.1\Adopcion.dll
+C:\Users\alber\Documents\Adopcion\Adopcion\bin\Debug\netcoreapp2.1\Adopcion.pdb
+C:\Users\alber\Documents\Adopcion\Adopcion\obj\Debug\netcoreapp2.1\Adopcion.dll
+C:\Users\alber\Documents\Adopcion\Adopcion\obj\Debug\netcoreapp2.1\Adopcion.pdb
